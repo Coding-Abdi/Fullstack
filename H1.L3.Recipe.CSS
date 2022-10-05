@@ -1,0 +1,98 @@
+*{
+    background-color: #EAFFFD;
+    color: #6B5E62;
+}
+
+.headline{
+    padding-left: 55px;
+    text-align: center
+}
+
+.subheading{
+    padding-left: 55px;
+    text-align: center
+}
+
+.image1{
+    padding-left: 250px;
+}
+
+.tagline{
+    padding-left: 50px;
+    text-align: left;
+}
+
+.ingredients{
+    width: 500px;
+    height: 175px;
+    padding-left: 5px;
+    text-align: center;
+}
+
+.ing{
+    text-align: left;
+    padding-left: 75px;
+    height: 20px;
+}
+
+.ingred_bullet{
+    display: inline-block;
+    text-align: left;
+}
+
+.sauce{
+    width: 500px;
+    height: 175px;
+    padding-left: 5px;
+    text-align: center;
+}
+
+.sau{
+    text-align: left;
+    padding-left: 70px;
+    height: 20px;
+}
+
+.sauce_bullet{
+    display: inline-block;
+    text-align: left;
+}
+
+.method{
+    text-align: center;
+}
+
+.meth{
+    text-align: left;
+    padding-left: 10px;
+    height: 30px;
+}
+
+.method_bullet{
+    text-align: left;
+
+}
+
+.tips{
+    width: 500px;
+    height: 15px;
+    padding-left: 417px;
+    text-align: center;
+}
+
+.tips_main{
+    width: 500px;
+    height: 150px;
+    padding-left: 425px;
+    text-align: left;
+}
+
+a{
+    color: blue;
+    text-decoration: none;
+    opacity: 1;
+}
+
+a:hover{
+    opacity: 0.6;
+}
